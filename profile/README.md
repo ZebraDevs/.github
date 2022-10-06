@@ -10,10 +10,10 @@
 # Contribution Guidelines
 If you'd like to contribute to ZebraDevs, we have some guidelines. Everything can be found in our [About](https://github.com/ZebraDevs/About) repository, but the main points are:
 1. Your repo should, at minimum, include:
-  * A README file. We have a [template](README_template.md)  you can use as a starting point. 
-  * [A CONTRIBUTING file](CONTRIBUTING.md)
-  * A license. Please choose [the MIT license](LICENSE.txt) or [the Zebra EULA](ZEBRA_EULA_LICENSE.md) depending on your needs. 
-  * A [Code of Conduct file](Code_of_Conduct.md)
+  * A README file. We have a [template](https://github.com/ZebraDevs/About/blob/master/README_template.md)  you can use as a starting point. 
+  * [A CONTRIBUTING file](https://github.com/ZebraDevs/About/blob/master/CONTRIBUTING.md)
+  * A license. Please choose [the MIT license](https://github.com/ZebraDevs/About/blob/master/LICENSE.txt) or [the Zebra EULA](https://github.com/ZebraDevs/About/blob/master/ZEBRA_EULA_LICENSE.md) depending on your needs. 
+  * A [Code of Conduct file](https://github.com/ZebraDevs/About/blob/master/Code_of_Conduct.md)
 2. Your repo should follow our naming convention:
   * [Technology]-[Language / API]-[SDK/Sample/Demo], e.g: Flutter-Dart-EMDKDemo
 
