@@ -1,6 +1,6 @@
 <p align="center">
 
-![ZebraDevsLogo](img/zebra-developer-logo-pos-rgb.png)
+![zebra-developer-logo-pos-rgb](https://user-images.githubusercontent.com/6454841/197206434-2c58b1a4-2f79-4284-9dfd-0ee4b0d03f4c.png)
 
 </p>
 
